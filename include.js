@@ -234,6 +234,15 @@ let cards = [
     author: "nick981837",
     githubLink: "https://github.com/nick981837",
   },
+  
+  {
+    artName: 'Bouncing_Balls',
+    pageLink: './Art/Bouncing_Balls/index.html',
+    imageLink: './Art/Bouncing_Balls/Bouncing_Balls_Gif.gif',
+    author: 'Jdtacke',
+    githubLink: 'https://github.com/Jdtacke'
+  },
+  
   {
     artName: "ZTM Animation",
     pageLink: "./Art/EricPuskas/index.html",
